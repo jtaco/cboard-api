@@ -15,7 +15,7 @@
     "email-verification": "^0.4.6",
     "express": "^4.12.3",
     "express-session": "^1.15.2",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^8.0.0",
     "mongoose": "^4.4.6",
     "rand-token": "^0.4.0",
     "sendgrid": "^4.7.1",
